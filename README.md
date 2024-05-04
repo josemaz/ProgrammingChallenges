@@ -10,7 +10,7 @@ This source code can be compiled with _GNU compilers_.
 When you are ready can consider use a Makefile.
 
 ### Problems
-| id  | Problem | Status |
+| id  | Nombre | Status |
 | ------------- | ------------- | ------------- |
 | 110101  | 3n + 1  | OK |
 | 110301  | werty  | pending |
