@@ -16,4 +16,4 @@ When you are ready can consider use a Makefile.
 | 110301  | werty  | pending |
 | 110408  | Football  | pending |
 | 110401  | Vito's  | OK |
-| 110707  | Marbles  | OK |
+| 110707  | Marbles  | pending |
