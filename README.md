@@ -9,3 +9,11 @@ This source code can be compiled with _GNU compilers_.
 
 When you are ready can consider use a Makefile.
 
+### Problems
+| id  | Problem | Status |
+| ------------- | ------------- | ------------- |
+| 110101  | 3n + 1  | OK |
+| 110301  | werty  | pending |
+| 110408  | Football  | pending |
+| 110401  | Vito's  | OK |
+| 110707  | Marbles  | OK |
